@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Rastreamento\Rastreamento\obj\Debug\net9.0\Rastreamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Rastreamento\Rastreamento\obj\Debug\net9.0\Rastreamento.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Rastreamento\Rastreamento\obj\Debug\net9.0\Rastreamento.AssemblyInfo.cs
+C:\Users\User\Desktop\Rastreamento\Rastreamento\obj\Debug\net9.0\Rastreamento.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Rastreamento\Rastreamento\bin\Debug\net9.0\Rastreamento.exe
+C:\Users\User\Desktop\Rastreamento\Rastreamento\bin\Debug\net9.0\Rastreamento.deps.json
+C:\Users\User\Desktop\Rastreamento\Rastreamento\bin\Debug\net9.0\Rastreamento.runtimeconfig.json
+C:\Users\User\Desktop\Rastreamento\Rastreamento\bin\Debug\net9.0\Rastreamento.dll
+C:\Users\User\Desktop\Rastreamento\Rastreamento\bin\Debug\net9.0\Rastreamento.pdb
+C:\Users\User\Desktop\Rastreamento\Rastreamento\obj\Debug\net9.0\Rastreamento.dll
+C:\Users\User\Desktop\Rastreamento\Rastreamento\obj\Debug\net9.0\refint\Rastreamento.dll
+C:\Users\User\Desktop\Rastreamento\Rastreamento\obj\Debug\net9.0\Rastreamento.pdb
+C:\Users\User\Desktop\Rastreamento\Rastreamento\obj\Debug\net9.0\Rastreamento.genruntimeconfig.cache
+C:\Users\User\Desktop\Rastreamento\Rastreamento\obj\Debug\net9.0\ref\Rastreamento.dll
